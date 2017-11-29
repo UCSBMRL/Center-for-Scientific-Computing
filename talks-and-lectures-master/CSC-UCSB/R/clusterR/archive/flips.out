@@ -1,0 +1,7 @@
+---- Parallel coin flips ----
+nSim, nSpin:  1e+05 100 
+Timing: 118.238 
+
+---- Serial coin flips ----
+nSim, nSpin:  1e+05 100 
+Timing: 129.448

@@ -1,0 +1,8 @@
+# clusterR folder contains 
+  files   : coinFlips.R, monteCarlo.R, monteCarloPar.R, monteCarloSer.R
+  archive : Contains outputs for reference
+
+# titanic folder contains
+  data           : training and test data
+  titanicModel.R : Predicting survival based on logistic regression
+  titanicModel.ipynb : For Python users, a similar analysis in included using Pandas and ScikitLearn

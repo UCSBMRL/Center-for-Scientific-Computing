@@ -1,0 +1,148 @@
+ACTIVE JOBS--------------------
+JOBNAME            USERNAME      STATE  PROC   REMAINING            STARTTIME
+
+1710335            tguzella    Running    24 -9:05:49:59  Sat Oct  8 08:36:37
+1700872            colinstewart    Running    48 -8:12:18:11  Sat Oct  8 10:08:25
+1700875            colinstewart    Running    48 -8:10:30:39  Sat Oct  8 11:55:57
+1727516            vishchem    Running    16    10:18:35  Tue Oct 18 09:45:11
+1727518            vishchem    Running    16    10:43:02  Tue Oct 18 10:09:38
+1727522            vishchem    Running    16    12:29:22  Tue Oct 18 11:55:58
+1727523            vishchem    Running    16    12:37:25  Tue Oct 18 12:04:01
+1727524            vishchem    Running    16    12:55:14  Tue Oct 18 12:21:50
+1727525            vishchem    Running    16    13:16:13  Tue Oct 18 12:42:49
+1727526            vishchem    Running    16    13:21:00  Tue Oct 18 12:47:36
+1727527            vishchem    Running    16    14:11:19  Tue Oct 18 13:37:55
+1716122            jkbeavers    Running     4    14:11:25  Sun Oct 16 04:38:01
+1727528            vishchem    Running    16    14:21:06  Tue Oct 18 13:47:42
+1716123            jkbeavers    Running     4    16:07:32  Sun Oct 16 06:34:08
+1731100             lmzhang    Running     4    18:56:01  Tue Oct 18 09:22:37
+1729477            jkbeavers    Running     4    22:07:51  Sun Oct 16 12:34:27
+1729478            jkbeavers    Running     4    23:02:03  Sun Oct 16 13:28:39
+1716130            jkbeavers    Running     4  1:00:45:07  Sun Oct 16 15:11:43
+1730287             byurash    Running     8  1:00:57:35  Mon Oct 17 15:24:11
+1716131            jkbeavers    Running     4  1:01:09:19  Sun Oct 16 15:35:55
+1715412                 liz    Running    12  1:02:33:19  Sat Oct 15 12:59:55
+1730291             byurash    Running     8  1:03:19:09  Mon Oct 17 17:45:45
+1715832            vishchem    Running    32  1:07:21:42  Tue Oct 11 13:48:18
+1705563             galaxy2    Running     8  1:08:43:09  Tue Oct 11 15:09:45
+1701249            colinstewart    Running    48  1:08:48:14  Tue Oct 18 07:14:50
+1715835            vishchem    Running    32  1:08:59:38  Tue Oct 11 15:26:14
+1731105              rrhein    Running    48  1:11:42:24  Tue Oct 18 10:09:00
+1731107              rrhein    Running    48  1:14:46:31  Tue Oct 18 13:13:07
+1701252            colinstewart    Running    48  1:15:46:21  Tue Oct 18 14:12:57
+1730517            lyyanlely    Running     2  1:20:01:29  Tue Oct 18 10:33:05
+1730518            lyyanlely    Running     2  1:20:01:48  Tue Oct 18 10:33:24
+1730519            lyyanlely    Running     2  1:20:14:44  Tue Oct 18 10:46:20
+1730520            lyyanlely    Running     2  1:20:24:05  Tue Oct 18 10:55:41
+1730521            lyyanlely    Running     2  1:20:37:20  Tue Oct 18 11:08:56
+1730522            lyyanlely    Running     2  1:20:43:15  Tue Oct 18 11:14:51
+1730523            lyyanlely    Running     2  1:21:01:17  Tue Oct 18 11:32:53
+1730524            lyyanlely    Running     2  1:21:07:00  Tue Oct 18 11:38:36
+1730525            lyyanlely    Running     2  1:21:07:55  Tue Oct 18 11:39:31
+1716132            jkbeavers    Running     4  1:21:15:53  Mon Oct 17 11:42:29
+1730445            lyyanlely    Running     2  1:21:18:18  Tue Oct 18 11:49:54
+1730446            lyyanlely    Running     2  1:21:30:19  Tue Oct 18 12:01:55
+1730447            lyyanlely    Running     2  1:21:58:24  Tue Oct 18 12:30:00
+1730526            lyyanlely    Running     2  1:22:32:39  Tue Oct 18 13:04:15
+1730527            lyyanlely    Running     2  1:22:43:27  Tue Oct 18 13:15:03
+1715420                 liz    Running    12  2:06:28:46  Sun Oct 16 16:55:22
+1715421                 liz    Running    12  2:08:12:57  Sun Oct 16 18:39:33
+1716138            jkbeavers    Running     4  2:09:38:20  Tue Oct 18 00:04:56
+1716139            jkbeavers    Running     4  2:09:53:39  Tue Oct 18 00:20:15
+1715422                 liz    Running    12  2:11:31:46  Sun Oct 16 21:58:22
+1716140            jkbeavers    Running     4  2:13:09:07  Tue Oct 18 03:35:43
+1715423                 liz    Running    12  2:15:37:58  Mon Oct 17 02:04:34
+1730338                dcao    Running    12  2:18:19:43  Tue Oct 18 08:46:19
+1715424                 liz    Running    12  2:18:34:16  Mon Oct 17 05:00:52
+1715425                 liz    Running    12  2:21:58:54  Mon Oct 17 08:25:30
+1716141            jkbeavers    Running     4  2:23:37:32  Tue Oct 18 14:04:08
+1716142            jkbeavers    Running     4  2:23:37:39  Tue Oct 18 14:04:15
+1716143            jkbeavers    Running     4  2:23:37:42  Tue Oct 18 14:04:18
+1716144            jkbeavers    Running     4  2:23:37:57  Tue Oct 18 14:04:33
+1710939                 cwu    Running     6  3:04:38:24  Fri Oct  7 19:05:00
+1725318            syriantruong    Running    12  3:09:29:26  Thu Oct 13 15:56:02
+1725319            syriantruong    Running    12  3:09:41:33  Thu Oct 13 16:08:09
+1725320            syriantruong    Running    12  3:10:24:22  Thu Oct 13 16:50:58
+1725321            syriantruong    Running    12  3:10:53:36  Thu Oct 13 17:20:12
+1725322            syriantruong    Running    12  3:12:41:41  Thu Oct 13 19:08:17
+1726927            vishchem    Running    16  3:12:46:04  Thu Oct 13 19:12:40
+1726928            vishchem    Running    16  3:13:03:40  Thu Oct 13 19:30:16
+1725323            syriantruong    Running    12  3:16:47:43  Thu Oct 13 23:14:19
+1730088                 liz    Running    24  3:17:12:55  Tue Oct 18 03:39:31
+1725324            syriantruong    Running    12  3:22:14:35  Fri Oct 14 04:41:11
+1725325            syriantruong    Running    12  3:22:15:06  Fri Oct 14 04:41:42
+1725326            syriantruong    Running    12  3:22:25:07  Fri Oct 14 04:51:43
+1725327            syriantruong    Running    12  3:22:50:56  Fri Oct 14 05:17:32
+1730089                 liz    Running    24  3:23:01:15  Tue Oct 18 09:27:51
+1725328            syriantruong    Running    12  3:23:10:38  Fri Oct 14 05:37:14
+1725329            syriantruong    Running    12  3:23:14:28  Fri Oct 14 05:41:04
+1725330            syriantruong    Running    12  3:23:19:25  Fri Oct 14 05:46:01
+1725331            syriantruong    Running    12  3:23:26:16  Fri Oct 14 05:52:52
+1730090                 liz    Running    24  3:23:27:24  Tue Oct 18 09:54:00
+1731196            bengriffy    Running    12  3:23:55:15  Tue Oct 18 14:21:51
+1730091                 liz    Running    24  4:00:35:09  Tue Oct 18 11:01:45
+1715462               hhk05    Running    32  4:17:54:34  Sat Oct 15 00:21:10
+1708486             galaxy2    Running     8  4:18:17:43  Sat Oct 15 00:44:19
+1716177               hhk05    Running    32  6:00:57:11  Sun Oct 16 07:23:47
+1730370                dcao    Running    12  6:01:47:29  Mon Oct 17 16:14:05
+1716588               hhk05    Running    32  6:14:47:50  Sun Oct 16 21:14:26
+1729996               hhk05    Running    32  6:19:42:40  Mon Oct 17 02:09:16
+1705946            schretien    Running    12  7:13:51:52  Thu Oct  6 04:18:28
+1727397             galaxy2    Running     8  8:03:50:07  Tue Oct 18 10:16:43
+1731038             galaxy2    Running     8  8:03:52:22  Tue Oct 18 10:18:58
+1729997               hhk05    Running    32  8:04:13:59  Tue Oct 18 10:40:35
+1729998               hhk05    Running    32  8:05:41:14  Tue Oct 18 12:07:50
+1725314                 cwu    Running     6  8:22:40:27  Thu Oct 13 13:07:03
+1725315                 cwu    Running     6  8:22:41:13  Thu Oct 13 13:07:49
+1725316                 cwu    Running     6  8:22:42:46  Thu Oct 13 13:09:22
+1725317                 cwu    Running     6  8:23:01:57  Thu Oct 13 13:28:33
+1711438            schretien    Running    12  9:19:38:10  Sat Oct  8 10:04:46
+1730055            abagnell    Running    12  9:20:57:09  Tue Oct 18 11:23:45
+1712380            schretien    Running    12 10:03:09:20  Sat Oct  8 17:35:56
+1730027            schretien    Running    12 18:15:39:29  Mon Oct 17 06:06:05
+1730037            schretien    Running    12 18:17:28:55  Mon Oct 17 07:55:31
+1710693            sboldissar    Running     1 88:21:18:03  Fri Oct  7 11:44:40
+1710694            sboldissar    Running     1 88:21:18:09  Fri Oct  7 11:44:46
+1728066                 aue    Running    12 96:05:03:48  Fri Oct 14 19:30:25
+1730081            sboldissar    Running     1 98:20:31:36  Mon Oct 17 10:58:13
+1730082            sboldissar    Running     1 98:20:31:46  Mon Oct 17 10:58:23
+1731197              kartik    Running     6    INFINITY  Tue Oct 18 14:26:24
+1731198              kartik    Running     6    INFINITY  Tue Oct 18 14:26:36
+
+   107 Active Jobs    1394 of 1664 Processors Active (83.77%)
+                       118 of  126 Nodes Active      (93.65%)
+
+IDLE JOBS----------------------
+JOBNAME            USERNAME      STATE  PROC     WCLIMIT            QUEUETIME
+
+1730000             cedrict       Idle    32 33:08:00:00  Mon Oct 17 02:34:41
+1729999             ucsbeqs       Idle    32 33:08:00:00  Mon Oct 17 02:29:56
+1731113[1]          kshyatt       Idle    72  3:00:00:00  Tue Oct 18 10:25:24
+    + 3 more
+1730092                 liz       Idle    24  4:04:00:00  Mon Oct 17 11:11:20
+    + 235 more
+1701253            colinstewart       Idle    48  1:16:00:00  Mon Oct  3 12:31:44
+    + 19 more
+1731067               hhk05       Idle    32  8:08:00:00  Tue Oct 18 02:54:46
+
+263 Idle Jobs
+
+BLOCKED JOBS----------------
+JOBNAME            USERNAME      STATE  PROC     WCLIMIT            QUEUETIME
+
+1628635                doch  BatchHold    16  2:00:00:00  Fri Aug 12 00:19:27
+1716029            jkbeavers       Idle     1  3:00:00:00  Tue Oct 11 00:16:04
+    + 44 more
+1725332            syriantruong       Idle    12  8:08:00:00  Thu Oct 13 13:15:56
+    + 5 more
+1727462            vishchem       Idle    16  8:08:00:00  Fri Oct 14 12:11:58
+    + 44 more
+1729479            jkbeavers       Idle     4  3:00:00:00  Sun Oct 16 12:07:49
+    + 62 more
+1730528            lyyanlely       Idle     2  1:23:55:00  Mon Oct 17 17:35:14
+    + 303 more
+1731048             galaxy2       Idle     8  8:08:00:00  Tue Oct 18 00:32:18
+    + 2 more
+1731103            vishchem       Idle    16  8:08:00:00  Tue Oct 18 09:43:45
+    + 48 more
+
